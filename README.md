@@ -7,3 +7,5 @@ Configuration:
 - BIOS:  1.12.3 (13 Jul 2020) - using default BIOS settings
 - 2x4GB DDR3 memory
 - Added an AMD RX 560 graphics card
+
+OpenCore 0.6.3 configuration supports Big Sur
